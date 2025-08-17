@@ -1,0 +1,1 @@
+Se realizó un proceso ETL a partir de un dataset que contiene información acerca de las 10000 mejores empresas de Colombia, se normalizó la base de datos hasta su tercera forma normal y posteriormente se cargó el modelo entidad relación a una base de datos SQLite
